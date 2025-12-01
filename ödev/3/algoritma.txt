@@ -1,0 +1,7 @@
+3 not al
+
+Ortalama = (n1+n2+n3)/3
+
+Eğer ortalama ≥ 50 ise “Geçti”
+
+Değilse “Kaldı”s

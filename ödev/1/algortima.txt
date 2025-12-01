@@ -1,0 +1,19 @@
+1- Başla.
+
+2- a, b, ve c adında üç adet tamsayı (integer) değişkeni tanımla.
+
+3- Kullanıcıdan a, b, ve c kenar uzunluklarını girmesini iste ve değerleri al.
+
+4- Aşağıdaki üç koşulu kontrol et:
+
+Koşul 1: a + b > c
+
+Koşul 2: a + c > b
+
+Koşul 3: b + c > a
+
+5- Eğer tüm üç koşul birden doğruysa, ekrana "Bu kenarlar ile üçgen oluşturulabilir." yazdır.
+
+6- Aksi halde (koşullardan en az biri yanlışsa), ekrana "Bu kenarlar ile üçgen oluşturulamaz." yazdır.
+
+7- Bitir.
